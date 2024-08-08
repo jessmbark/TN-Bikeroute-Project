@@ -20,7 +20,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Big Picture',
-            description: 'Tennessee, like many other states, emplotys a consulting firm to grade roads from state, county and city systems in terms of bicycle safety. Those <a href="https://nacto.org/docs/usdg/bicylce_Level_of_service_model_sprinkle_consulting.pdf">grades</a> are determined by the score that a road gets on a number of factors. Some of those factors include speed limit, width of the road, and bicycle lane availability. This map highlights all of the routes graded in Tennessee on an A-F scale, with higher grades being greener and lower grades being more red.',
+            description: 'Tennessee, like many other states, employs a consulting firm to grade roads from state, county and city systems in terms of bicycle safety. Those <a href="https://nacto.org/docs/usdg/bicylce_Level_of_service_model_sprinkle_consulting.pdf">grades</a> are determined by the score that a road gets on a number of factors. Some of those factors include speed limit, width of the road, and bicycle lane availability. This map highlights all of the routes graded in Tennessee on an A-F scale, with higher grades being greener and lower grades being more red.',
             location: {
                 center: [-85.892, 35.901],
                 zoom: 5,
